@@ -1,1 +1,1 @@
-# FIT-Club-Website
+FIT club website using html, css, and javascript
