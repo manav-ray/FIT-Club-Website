@@ -278,7 +278,7 @@ header {
     background-color: var(--clr-light);
     box-shadow: var(--bs);
     display: inline-flex;
-    width: 50%;
+    width: 40%;
     margin: 10px;
     margin-bottom: 30px;
 }
